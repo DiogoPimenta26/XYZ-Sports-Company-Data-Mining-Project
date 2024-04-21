@@ -22,19 +22,28 @@ Missing values were treated across different variables such as income, activitie
 
 RFM analysis segments customers based on recency, frequency, and monetary value of their transactions. By assigning scores to each variable and deriving an overall RFM score, customers were categorized into "High Value," "Medium Value," and "Low Value" groups. Insights from this analysis revealed historical targeting strategies and demographic trends within customer segments.
 
+![RFM Analysis](https://github.com/DiogoPimenta26/XYZ-Sports-Company-Data-Mining-Project/assets/148448280/f7b6032d-355d-4dda-a4ba-3d0941a29c0c)
+
 ### Clustering Analysis
 
 #### Demographic Perspective
 
 Clustering based on demographic characteristics such as age, gender, and income revealed distinct customer groups. The elbow method was utilized to determine the optimal number of clusters, resulting in three distinct segments with unique characteristics.
 
+![Demographic Clustering](https://github.com/DiogoPimenta26/XYZ-Sports-Company-Data-Mining-Project/assets/148448280/c2c76d9f-77ba-4661-8a31-2e7ea7dde8bc)
+
 #### Purchase Behavior Perspective
 
 Clustering customers based on RFM scores provided insights into similar purchasing behaviors. Through K-means clustering and evaluation using the elbow method and silhouette score, three distinct clusters were identified, each representing customers with varying levels of engagement and spending behavior.
 
+
+![RFM Clustering](https://github.com/DiogoPimenta26/XYZ-Sports-Company-Data-Mining-Project/assets/148448280/ad0e0ea6-281d-4c96-aec0-8725556bc31b)
+
 #### Value-Based Perspective
 
 Integrating RFM scores with demographic characteristics, clustering identified customers based on their potential profitability to the business. Insights from these clusters led to recommendations for targeted marketing strategies and service offerings tailored to different customer segments.
+
+![RFM and Demegraphic](https://github.com/DiogoPimenta26/XYZ-Sports-Company-Data-Mining-Project/assets/148448280/e71ea80c-0020-401e-aeaa-189701ab5b6f)
 
 ## Conclusion
 
